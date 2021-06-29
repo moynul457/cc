@@ -36,8 +36,38 @@ fuck = red + " \xe2\x9a\xa0\xef\xb8\x8f Warning : It's just made for fun.  We ar
 
 notice = yellow + '                \xe2\x9c\xaaBangladeshi fuckin bomber\xe2\x9c\xaa                      '
 
-print '\n\x1b[92m _                       _  __\n| |    _____      __    | |/ /___ _   _\n| |   / _ \ \ /\ / /____| . // _ \ | | |\n| |__| (_) \ V  V /_____| . \  __/ |_| |\n|_____\___/ \_/\_/      |_|\_\___|\__, |\n                                  |___/'
+print '\n\x1b[92m TTTTTTTTTTTTTTTTTTTTTTTHHHHHHHHH     HHHHHHHHH      CCCCCCCCCCCCCBBBBBBBBBBBBBBBBB   
 
+T:::::::::::::::::::::TH:::::::H     H:::::::H   CCC::::::::::::CB::::::::::::::::B  
+
+T:::::::::::::::::::::TH:::::::H     H:::::::H CC:::::::::::::::CB::::::BBBBBB:::::B 
+
+T:::::TT:::::::TT:::::THH::::::H     H::::::HHC:::::CCCCCCCC::::CBB:::::B     B:::::B
+
+TTTTTT  T:::::T  TTTTTT  H:::::H     H:::::H C:::::C       CCCCCC  B::::B     B:::::B
+
+        T:::::T          H:::::H     H:::::HC:::::C                B::::B     B:::::B
+
+        T:::::T          H::::::HHHHH::::::HC:::::C                B::::BBBBBB:::::B 
+
+        T:::::T          H:::::::::::::::::HC:::::C                B:::::::::::::BB  
+
+        T:::::T          H:::::::::::::::::HC:::::C                B::::BBBBBB:::::B 
+
+        T:::::T          H::::::HHHHH::::::HC:::::C                B::::B     B:::::B
+
+        T:::::T          H:::::H     H:::::HC:::::C                B::::B     B:::::B
+
+        T:::::T          H:::::H     H:::::H C:::::C       CCCCCC  B::::B     B:::::B
+
+      TT:::::::TT      HH::::::H     H::::::HHC:::::CCCCCCCC::::CBB:::::BBBBBB::::::B
+
+      T:::::::::T      H:::::::H     H:::::::H CC:::::::::::::::CB:::::::::::::::::B 
+
+      T:::::::::T      H:::::::H     H:::::::H   CCC::::::::::::CB::::::::::::::::B  
+
+      TTTTTTTTTTT      HHHHHHHHH     HHHHHHHHH      CCCCCCCCCCCCCBBBBBBBBBBBBBBBBB "
+ 
 print " \n \x1b[92m  "      
 
 def logop(z):
