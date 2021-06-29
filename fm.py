@@ -36,7 +36,7 @@ fuck = red + " \xe2\x9a\xa0\xef\xb8\x8f Warning : It's just made for fun.  We ar
 
 notice = yellow + '                \xe2\x9c\xaaBangladeshi fuckin bomber\xe2\x9c\xaa                      '
 
-print '\n\x1b[92m TTTTTTTTTTTTTTTTTTTTTTTHHHHHHHHH     HHHHHHHHH      CCCCCCCCCCCCCBBBBBBBBBBBBBBBBB   
+print(" TTTTTTTTTTTTTTTTTTTTTTTHHHHHHHHH     HHHHHHHHH      CCCCCCCCCCCCCBBBBBBBBBBBBBBBBB   
 
 T:::::::::::::::::::::TH:::::::H     H:::::::H   CCC::::::::::::CB::::::::::::::::B  
 
@@ -66,7 +66,7 @@ TTTTTT  T:::::T  TTTTTT  H:::::H     H:::::H C:::::C       CCCCCC  B::::B     B:
 
       T:::::::::T      H:::::::H     H:::::::H   CCC::::::::::::CB::::::::::::::::B  
 
-      TTTTTTTTTTT      HHHHHHHHH     HHHHHHHHH      CCCCCCCCCCCCCBBBBBBBBBBBBBBBBB '
+      TTTTTTTTTTT      HHHHHHHHH     HHHHHHHHH      CCCCCCCCCCCCCBBBBBBBBBBBBBBBBB")
  
 print " \n \x1b[92m  "      
 
