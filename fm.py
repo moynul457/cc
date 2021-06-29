@@ -32,9 +32,9 @@ yellow = '\n\n\x1b[1;93m'
 
 os.system('clear')
 
-fuck = red + " \xe2\x9a\xa0\xef\xb8\x8f Warning : It's just made for fun.  We are not responsible if someone misuses it."
+fuck = red + " \xe2\x9a\xa0\xef\xb8\x8f Warning : It's just made for fun.  We are not responsible if some misuses it."
 
-notice = yellow + '                \xe2\x9c\xaaBangladeshi Sms Bombing Tools\xe2\x9c\xaa                      '
+notice = yellow + '                \xe2\x9c\xaaBangladeshi fuckin bomber\xe2\x9c\xaa                      '
 
 print '\n\x1b[92m _                       _  __\n| |    _____      __    | |/ /___ _   _\n| |   / _ \ \ /\ / /____| . // _ \ | | |\n| |__| (_) \ V  V /_____| . \  __/ |_| |\n|_____\___/ \_/\_/      |_|\_\___|\__, |\n                                  |___/'
 
