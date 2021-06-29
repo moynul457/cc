@@ -38,7 +38,7 @@ notice = yellow + '                \xe2\x9c\xaaBangladeshi Sms Bombing Tools\xe2
 
 print '\n\x1b[92m _                       _  __\n| |    _____      __    | |/ /___ _   _\n| |   / _ \ \ /\ / /____| . // _ \ | | |\n| |__| (_) \ V  V /_____| . \  __/ |_| |\n|_____\___/ \_/\_/      |_|\_\___|\__, |\n                                  |___/'
 
-print ' \n \x1b[92m         
+print " \n \x1b[92m  "      
 
 def logop(z):
 
