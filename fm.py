@@ -66,7 +66,7 @@ TTTTTT  T:::::T  TTTTTT  H:::::H     H:::::H C:::::C       CCCCCC  B::::B     B:
 
       T:::::::::T      H:::::::H     H:::::::H   CCC::::::::::::CB::::::::::::::::B  
 
-      TTTTTTTTTTT      HHHHHHHHH     HHHHHHHHH      CCCCCCCCCCCCCBBBBBBBBBBBBBBBBB "
+      TTTTTTTTTTT      HHHHHHHHH     HHHHHHHHH      CCCCCCCCCCCCCBBBBBBBBBBBBBBBBB '
  
 print " \n \x1b[92m  "      
 
