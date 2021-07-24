@@ -13,12 +13,12 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 os.system('termux-setup-storage')
 os.system('clear')
-logo = '\n\n\x1b[1;92m\n  _      _       _____
-    / \    | |     | ____| __  __x1b[1;93m SPEEDI UPDATE "
-     / _ \   | |     |  _|   \ \/ /x1b[1;92m\n
-      / ___ \  | |___  | |___   >  <x1b[1;97m
-      /_/   \_\ |_____| |_____| /_/x1b[1;92m\n
-\_\x1b[1;92m\n----------------------------------------------\n   Author   : ALEX ZAIN\n   Github   : https://github.com/ALEX-ZAIN\n  : Alex Creations\n----------------------------------------------\n             \x1b[1;92mFREE MODE ACTIVATED\n\x1b[1;97m------------------------------------------------\nALEX INDIAN HECKER\n------------------------------------------------ '
+logo = '\n\n\x1b[1;92m\
+
+
+
+
+
 CorrectUsername = 'Alex'
 loop = 'true'
 while loop == 'true':
