@@ -13,7 +13,7 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 os.system('termux-setup-storage')
 os.system('clear')
-logo = '\n\n\x1b[1;92m\
+logo =
 
 
 
