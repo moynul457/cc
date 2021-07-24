@@ -437,7 +437,7 @@ def action():
 			q = json.load(data)
 			if 'access_token' in q:
 				print '\x1b[1;91m[  ✓  ] \x1b[1;92mValid_OK100%'											
-			    print '\x1b[1;91m[•⊱✿⊰•] \x1b[1;91mName \x1b[1;91m    : \x1b[1;91m' + b['name']											
+			    print '\x1b[1;91m[•⊱✿⊰•] \x1b[1;91mName \x1b[1;91m    : \x1b[1;91m' + b['name']'											
 		        print '\x1b[1;91m[•⊱✿⊰•] \x1b[1;91mID \x1b[1;91m      : \x1b[1;91m' k + c + user											
 			    print '\x1b[1;91m[•⊱✿⊰•] \x1b[1;91mPassword \x1b[1;91m: \x1b[1;91m' + pass1 + '\n'											
 				okb = open('save/cloned.txt', 'a')
